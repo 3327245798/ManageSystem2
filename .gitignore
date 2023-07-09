@@ -2,3 +2,5 @@
 index.css
 #忽略test文件夹下的.txt文件
 test/**/*.txt
+#忽略node_modules
+**/node_modules
