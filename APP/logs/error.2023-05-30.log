@@ -1,0 +1,40 @@
+{"date":"2023-05-30 10:02:12","type":"ERROR","data":"{
+  err: null,
+  code: -1,
+  msg: '请输入正确的用户名和密码！',
+  portName: '/admin/login',
+  body: { name: '王哲', pwd: 'e10adc3949ba59abbe56e057f20f883e' },
+  query: {},
+  method: 'POST'
+}"} 
+
+{"date":"2023-05-30 10:02:17","type":"ERROR","data":"{
+  err: null,
+  code: -1,
+  msg: '请输入正确的用户名和密码！',
+  portName: '/admin/login',
+  body: { name: '王哲', pwd: '202cb962ac59075b964b07152d234b70' },
+  query: {},
+  method: 'POST'
+}"} 
+
+{"date":"2023-05-30 10:02:52","type":"ERROR","data":"{
+  err: null,
+  code: -1,
+  msg: '请输入正确的用户名和密码！',
+  portName: '/admin/login',
+  body: { name: '王哲', pwd: 'e8ed9d924dae575e89822c1a00428bc9' },
+  query: {},
+  method: 'POST'
+}"} 
+
+{"date":"2023-05-30 10:03:02","type":"ERROR","data":"{
+  err: null,
+  code: -1,
+  msg: '请输入正确的用户名和密码！',
+  portName: '/admin/login',
+  body: { name: '王哲', pwd: 'd63bb68b85a82e02dec4fd3748d4de91' },
+  query: {},
+  method: 'POST'
+}"} 
+

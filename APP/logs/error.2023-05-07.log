@@ -1,0 +1,30 @@
+{"date":"2023-05-07 12:54:43","type":"ERROR","data":"{
+  err: null,
+  code: -1,
+  msg: '请输入正确的用户名和密码！',
+  portName: '/admin/login',
+  body: { name: 'wanzghe', pwd: 'ff540806c6f25b6e63a0db0e3eec3661' },
+  query: {},
+  method: 'POST'
+}"} 
+
+{"date":"2023-05-07 13:03:34","type":"ERROR","data":"{
+  err: null,
+  code: -1,
+  msg: '暂无对应菜单请求权限！',
+  portName: '/tests/checkMenu',
+  body: {},
+  query: {},
+  method: 'POST'
+}"} 
+
+{"date":"2023-05-07 13:03:38","type":"ERROR","data":"{
+  err: undefined,
+  code: -1,
+  msg: '暂无对应角色请求权限！',
+  portName: '/tests/checkRole',
+  body: {},
+  query: {},
+  method: 'POST'
+}"} 
+
